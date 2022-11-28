@@ -1,0 +1,3 @@
+resources:
+- ./infrastructure/ingress-nginx
+- ./infrastructure/kube-prometheus-stack
